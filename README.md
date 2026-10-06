@@ -9,4 +9,4 @@
 - Rutgers School of Graduate Studies Travel Award, 2026
 - Best Poster, Rutgers Chemical and Biochemical Engineering Symposium, 2024
 - Du Bois Fellowship, Rutgers University, 2022–2023
-- Org. Process Res. Dev. Outstanding Publication of the Year, finalist ([year])
+- Org. Process Res. Dev. Outstanding Publication of the Year, finalist 2023
