@@ -3,3 +3,10 @@
 - Franklin, R. D.; Armiger, T.; Otte, D. A. L.; Larson, R. T.; Spencer, G.; Patel, P. A.; Paulines, M. J.; Hall, J. R.; Xiao, K.-J.; Fier, P. S.; **Rodrigues, V. L.**; et al. Pilot-Scale Operation and Characterization of an Organolithium-Mediated Coupling Reaction in Flow to Form a Ketone Intermediate on the Route to Nemtabrutinib. *Org. Process Res. Dev.* 28 (5), 1411–1421 (2024). [DOI](https://doi.org/10.1021/acs.oprd.3c00395)
 -  Otte, D. A. L.; Larson, R. T.; Alwedi, E.; Armiger, T.; Chen, Y.; Chung, C. K.; Corry, J.; Desmond, R.; Fier, P. S.; Franklin, R. D.; Guetschow, E. D.; Hall, J. R.; Halsey, H. M.; Hartmanshenn, C.; Jellett, L.; Kuhl, N.; Lévesque, F.; McMullen, J. P.; Patel, P. A.; Paulines, M. J.; Ren, H.; **Rodrigues, V. L.**; et al. Development of a Green and Sustainable Manufacturing Process for a Key Intermediate to Nemtabrutinib (MK-1026): Sequential Deprotonation–Lithiation as a Batch–Flow Process. *Org. Process Res. Dev.* 28 (5), 1402–1410 (2024). [DOI](https://doi.org/10.1021/acs.oprd.3c00510)
 - Bottecchia, C.; Lehnherr, D.; Lévesque, F.; Reibarkh, M.; Ji, Y.; **Rodrigues, V. L.**; et al. Kilo-Scale Electrochemical Oxidation of a Thioether to a Sulfone: A Workflow for Scaling up Electrosynthesis. *Org. Process Res. Dev.* [volume], [pages] (2022). [DOI](https://doi.org/10.1021/acs.oprd.2c00111)
+
+## Awards
+
+- Rutgers School of Graduate Studies Travel Award, 2026
+- Best Poster, Rutgers Chemical and Biochemical Engineering Symposium, 2024
+- Du Bois Fellowship, Rutgers University, 2022–2023
+- Org. Process Res. Dev. Outstanding Publication of the Year, finalist ([year])
