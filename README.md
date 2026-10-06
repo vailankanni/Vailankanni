@@ -1,0 +1,5 @@
+## Publications
+
+- Franklin, R. D.; Armiger, T.; Otte, D. A. L.; Larson, R. T.; Spencer, G.; Patel, P. A.; Paulines, M. J.; Hall, J. R.; Xiao, K.-J.; Fier, P. S.; **Rodrigues, V. L.**; et al. Pilot-Scale Operation and Characterization of an Organolithium-Mediated Coupling Reaction in Flow to Form a Ketone Intermediate on the Route to Nemtabrutinib. *Org. Process Res. Dev.* 28 (5), 1411–1421 (2024). [DOI](https://doi.org/...)
+- Otte, D. A. L.; Larson, R. T.; et al. (incl. **Rodrigues, V. L.**). Development of a Green and Sustainable Manufacturing Process for a Key Intermediate to Nemtabrutinib (MK-1026): Sequential Deprotonation–Lithiation as a Batch–Flow Process. *Org. Process Res. Dev.* 28 (5), 1402–1410 (2024). [DOI](https://doi.org/...)
+- Bottecchia, C.; Lehnherr, D.; Lévesque, F.; Reibarkh, M.; Ji, Y.; **Rodrigues, V. L.**; et al. Kilo-Scale Electrochemical Oxidation of a Thioether to a Sulfone: A Workflow for Scaling up Electrosynthesis. *Org. Process Res. Dev.* [volume], [pages] (2022). [DOI](https://doi.org/...)
